@@ -12,5 +12,10 @@ Tenho formação em Bacharelado em Ciências Biológicas pela Faculdade Frassine
 
  </div>
 
+### Você também me encontra em : 
+
+  <img widht = "50" height = "50" src= "https://github.com/user-attachments/assets/106b34e2-026a-4bf5-b44b-4b0d8bd44a42" />
+
+
 
 
