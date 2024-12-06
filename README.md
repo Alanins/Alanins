@@ -1,5 +1,5 @@
 ## Sou Liliane Moreira 👋
-Estudante de Desenvolvimento Full Stack na Estácio, aprimorando habilidades em Python, SQL e JavaScript. Atualmente, desenvolvendo projetos práticos para consolidar conhecimentos em linguagem python, desenvolvimento back-end e análise de dados.
+Estudante de Desenvolvimento Full Stack, aprimorando habilidades em Python, SQL e JavaScript. Atualmente, desenvolvendo projetos práticos para consolidar conhecimentos em desenvolvimento back-end e análise de dados.
 
 - 👩🏻‍🎓 **Estudante** de Desenvolvimento Full Stack pela Estácio
 - 🏖️ Apaixonada por **praia**
