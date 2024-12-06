@@ -1,5 +1,5 @@
 ## Sou Liliane Moreira 👋
-Tenho formação em Bacharelado em Ciências Biológicas pela Faculdade Frassinetti do Recife (FAFIRE) e atualmente cursando Desenvolvimento Full Stack na Estácio, possuo uma combinação única de conhecimentos científicos e habilidades técnicas. Minha paixão por programação me levou a cursar desenvolvimento full stack, atualmente estou me aprofundando no conhecimento de python que considero uma linguagem versátil e poderosa para o desenvolvimento back-end e a análise de dados.
+Estudante de Desenvolvimento Full Stack na Estácio, aprimorando habilidades em Python, SQL e JavaScript. Atualmente, desenvolvendo projetos práticos para consolidar conhecimentos em linguagem python, desenvolvimento back-end e análise de dados.
 
 - 👩🏻‍🎓 **Estudante** de Desenvolvimento Full Stack pela Estácio
 - 🏖️ Apaixonada por **praia**
