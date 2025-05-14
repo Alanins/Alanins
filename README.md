@@ -1,7 +1,7 @@
 ## Hi! I'm Liliane Moreira 👋
-Full Stack Development Student, improving skills in Python, SQL, and JavaScript. Currently, developing practical projects to consolidate knowledge in back-end development and data analysis.
+Systems Analysis and Development (Bachelor of Technology) Student, improving skills in Python, SQL, and JavaScript. Currently, developing practical projects to consolidate knowledge in back-end development and data analysis.
 
-- 👩🏻‍🎓 Full Stack Development **Student**
+- 👩🏻‍🎓 Systems Analysis and Development (Bachelor of Technology) **Student**
 - 🏖️ **Beach** enthusiast
 - 👩🏻‍💻 Currently more focused on:
 
