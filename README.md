@@ -14,8 +14,7 @@ Systems Analysis and Development (Bachelor of Technology) Student, improving ski
 
 ### You can also find me on: 
 
-  <img widht = "50" height = "50" src= "https://github.com/user-attachments/assets/106b34e2-026a-4bf5-b44b-4b0d8bd44a42" />
-  <img widht = "50" height = "50" src="https://github.com/user-attachments/assets/e71c1533-7527-449e-8f18-ab07023aa331" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liliane-moreira-37a668250/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lilianemmoreira@gmail.com)
 
 
 
